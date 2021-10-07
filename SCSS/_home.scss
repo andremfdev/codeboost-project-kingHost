@@ -1,0 +1,11 @@
+.first-section {
+  .btn {
+    @include style-btn(350px, 400px, green);
+  }
+}
+
+.second-section {
+  .btn {
+    @include style-btn(800px, 150px, gray);
+  }
+}
