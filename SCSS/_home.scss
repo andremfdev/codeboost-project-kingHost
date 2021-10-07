@@ -1,11 +1,24 @@
-.first-section {
-  .btn {
-    @include style-btn(350px, 400px, green);
+.s-hero {
+  .container {
+    display: flex;
+    align-items: center;
   }
-}
-
-.second-section {
-  .btn {
-    @include style-btn(800px, 150px, gray);
+  @include responsive(1200px) {
+  }
+  @include responsive(991px) {
+  }
+  @include responsive(768px) {
+  }
+  @include responsive(600px) {
+  }
+  @include responsive(480px) {
+    .container {
+      flex-direction: column;
+    }
+    .text {
+      p {
+        color: white;
+      }
+    }
   }
 }

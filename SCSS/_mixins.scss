@@ -15,3 +15,9 @@
   border-radius: 5px;
   @include flex-element(center, center, column);
 }
+
+@mixin responsive($screenWidth) {
+  @media (max-width: $screenWidth) {
+    @content;
+  }
+}
