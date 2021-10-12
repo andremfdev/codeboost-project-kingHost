@@ -6,6 +6,13 @@ header {
   height: 11.9rem;
   background-color: $main-color;
   display: flex;
+  ul {
+    li {
+      span {
+        color: $text-color-white;
+      }
+    }
+  }
   .container {
     @include flex(row, center, space-between);
   }
