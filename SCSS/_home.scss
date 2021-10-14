@@ -95,7 +95,6 @@
     @include flex(row, center, space-between);
     margin-bottom: 5.3rem;
     h2 {
-      width: 100%;
       max-width: 50.2rem;
       font-family: 'PT Sans', sans-serif;
       font-weight: bold;
@@ -120,10 +119,44 @@
       @include flex(row, center, center);
       margin-bottom: 3rem;
     }
+    .info {
+      max-width: 23.9rem;
+      h4 {
+        font-weight: bold;
+        font-size: 1.8rem;
+        line-height: 2.2rem;
+        color: $main-color;
+        margin-bottom: 2rem;
+      }
+      p {
+        font-size: 1.6rem;
+        line-height: 165%;
+        color: $text-color;
+      }
+    }
+    .card-featured {
+      width: 100%;
+      max-width: 28rem;
+      height: 32.3rem;
+      background: rgba(197, 190, 220, 0.1);
+      border-radius: 12px;
+      padding-top: 4.1rem;
+      padding-left: 4.2rem;
+      .icon {
+        background-color: white;
+      }
+      .info {
+        max-width: 20.4rem;
+      }
+    }
     ul {
       width: 100%;
       max-width: 90.4rem;
       @include flex(row, flex-start, space-between);
+      margin-top: 4.1rem;
+      border-bottom: 3px solid rgba(95, 60, 161, 0.1);
+      padding-bottom: 6.5rem;
+      padding-left: 2rem;
     }
   }
 }
