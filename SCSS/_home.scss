@@ -76,7 +76,7 @@
   }
   @include responsive(600px) {
     padding-top: 2.5rem;
-    margin-top: 7.8rem;
+    margin-top: 9.8rem;
     .text {
       h1 {
         font-size: 4.3rem;
@@ -85,6 +85,9 @@
     .image {
       left: -9px;
     }
+  }
+  @include responsive(480px) {
+    margin-top: 7.8rem;
   }
 }
 
