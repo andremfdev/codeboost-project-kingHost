@@ -42,7 +42,8 @@
 <h3 id="about"><strong>📝 About</strong></h3>
 
 <hr>
-<p>First project carried out in the CodeBoost course and also my first contact applying knowledge in HTML5 and CSS3. In this project, we will put into practice the importance of having a well-made HTML structure so that we can create any type of layout, be it the simplest or the most complex. I take this project to apply the knowledge as SASS.</p>
+<p>
+With the KingHost project we will carry out all the teachings of the SASS module. We'll see how important it is to our productivity to have a CSS preprocessor to help us.</p>
 
 <br>
 
