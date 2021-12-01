@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./readme-assets/logo-codeboost.PNG" alt="Logo codeboost"><br>
+<img src="./readme-assets/logo-codeboost.png" alt="Logo codeboost"><br>
 </div>
 <hr>
 
@@ -57,14 +57,19 @@ Design layout available in Mentor Will Moreira's CodeBoost course (Insany Design
 <h3 align="center"><strong>Desktop model</strong></h3>
 <p align="center">
   <img 
-    src="./readme-assets/project-figma-desk1.png"
+    src="./readme-assets/project-figma-desk.png"
     width="700px" 
+    style="display: inline; border-radius: 15px; border: "
+  />
+  <h3 align="center"><strong>Mobile model 1</strong></h3>
+  <p align="center">
+  <img 
+    src="./readme-assets/project-figma-mobi1.png" 
     style="display: inline; border-radius: 15px; border: "
   />
   <p align="center">
   <img 
-    src="./readme-assets/project-figma-desk2.png"
-    width="700px" 
+    src="./readme-assets/project-figma-mobi2.png"
     style="display: inline; border-radius: 15px; border: "
   />
 
