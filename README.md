@@ -72,7 +72,7 @@ Design layout available in Mentor Will Moreira's CodeBoost course (Insany Design
 
 <hr>
 
-[Github Pages](https://andremksdev.github.io/codeboost-project-wireframe/)
+[Github Pages](https://andremksdev.github.io/codeboost-project-kingHost/)
 
 <br>
 
@@ -103,8 +103,7 @@ Note: Right now, Lighthouse focuses primarily on Progressive Web Apps features s
 - [x] Mobile version
 - [x] Flexbox
 - [x] Responsive
-- [x] Transition
-- [x] Transform
+- [x] Use of SASS
 
 <br>
 
@@ -114,7 +113,7 @@ Note: Right now, Lighthouse focuses primarily on Progressive Web Apps features s
 The technologies used for this project were:
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [SASS](https://sass-lang.com/documentation)
 
 <br>
 
